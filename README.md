@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Computer Science student passionate about Data Science and AI/ML, constantly learning, experimenting, and building impactful projects.
+I'm currently a Computer Science Student passionate about Data Science and AI/ML, constantly learning, experimenting, and building impactful projects.
 
 
 ## 🌐 Socials:
